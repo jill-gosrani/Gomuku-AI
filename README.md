@@ -1,5 +1,6 @@
-# Gomoku-AI  
-*A Hybrid Neural Network + Minimax Agent for 15x15 Gomoku*
+# Gomoku-AI
+
+_A Hybrid Neural Network + Minimax Agent for 15x15 Gomoku_
 
 ---
 
@@ -31,8 +32,8 @@
 
 ## Team
 
-- [Pavan Pandya](https://github.com/Pavan-Pandya1)
 - [Jill Gosrani](https://github.com/jill-gosrani)
+- [Pavan Pandya](https://github.com/Pavan-Pandya1)
 
 ---
 
@@ -105,8 +106,6 @@
 │       └── models/
 ```
 
-
-
 ---
 
 ## Usage
@@ -129,7 +128,7 @@ python3 performance.py
 
 ## Contributions
 
-Both Pavan Pandya and Jill Gosrani contributed equally to the design, coding, and integration of the neural network and minimax heuristic, with primary development in:
+Both I and Pavan Pandya contributed equally to the design, coding, and integration of the neural network and minimax heuristic, with primary development in:
 
 - `policies/submission.py` (hybrid agent logic)
 - `policies/CNN+model/` (model architecture, data preparation, training)
@@ -138,10 +137,8 @@ Both Pavan Pandya and Jill Gosrani contributed equally to the design, coding, an
 
 ## Contact
 
-For questions, feedback, or collaboration, reach out via [Pavan Pandya](https://www.linkedin.com/in/pavan-pandya/) or [Jill Gosrani](https://www.linkedin.com/in/jill-gosrani/).
+For questions, feedback, or collaboration, reach out via [Jill Gosrani](https://www.linkedin.com/in/jill-gosrani/) or [Pavan Pandya](https://www.linkedin.com/in/pavan-pandya/).
 
 ---
 
-*This project was developed as part of the CIS667 (Introduction to Artificial Intelligence) Final Project, Fall 2023.*
-
-
+_This project was developed as part of the CIS667 (Introduction to Artificial Intelligence) Final Project, Fall 2023._
